@@ -1,6 +1,6 @@
 # hafta3-mertbayraktar
-2. Hafta Ödev 2
-Sosyal ağ veritabanı tasarlayın
+
+# Sosyal ağ veritabanı tasarlayın
 
 birbirlerine mesaj atabildikleri, yorum yapabildikleri bir sosyal ağ
 mesaj, text, image yada video olarak gönderilebilsin
